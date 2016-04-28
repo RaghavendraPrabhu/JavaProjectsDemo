@@ -63,6 +63,9 @@ public class LearningDataTypes {
 		System.out.println(x);
 		System.out.println(--x);
 		
+		System.out.println(x);
+		System.out.println(--x);
+		
 	}
 
 }

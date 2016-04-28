@@ -9,6 +9,8 @@ public class PrintHelloWorld {
 		System.out.println(10);
 		System.out.print("No New Line");
 		System.out.print(1);
+		System.out.println("Hello World");
+		System.out.println("This Is Test File");
 
 	}
 
